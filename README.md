@@ -21,7 +21,7 @@ Oh! There is one more thing I very love, <b>FEEDBACK!</b> </p>
 </a> <br>
 
 ### Things I code with: 
-<img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/uk/2/2e/Java_Logo.svg" style="padding-right:10px;" />
+<img align="left" alt="Java" width="16px" src="https://upload.wikimedia.org/wikipedia/uk/2/2e/Java_Logo.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/python-3629591-3032289.png" style="padding-right:10px;" />
 <img align="left" alt="R" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" />
 <img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />
