@@ -7,8 +7,8 @@
   <img align="left" alt="Young's Instagram" width="24px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
-<br>
-<p> Welcome to my page! <br> I'm Young Jun, a passionate back-end developer and a senior university student studying Computer Science and Statistics at Duke University. 
+<br><br>
+<p> Welcome to my page! <br> I'm Young Jun, a passionate back-end developer and a senior at Duke University studying Computer Science and Statistics. 
 <br>
 I love technology and am interested in making it more approachable and exciting. 
 <br>
