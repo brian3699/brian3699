@@ -11,12 +11,13 @@
   <img align="left" alt="Email icon" width="23px" src="https://d338t8kmirgyke.cloudfront.net/icons/icon_pngs/000/007/873/original/email.png" />
 </a>
 
-<br>
+<br><br>
 <p> Welcome to my page! <br> I'm Young Jun, a passionate back-end developer and a senior at Duke University studying Computer Science and Statistics. 
 <br>
 I love technology and am interested in making it more approachable and exciting. 
 <br>
 Oh! There is one more thing I very love, <b>FEEDBACK!</b> </p>
+<!--
 <h3>Things I code with</h3>
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -24,7 +25,7 @@ Oh! There is one more thing I very love, <b>FEEDBACK!</b> </p>
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
-
+-->
 <!--
 **brian3699/brian3699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
