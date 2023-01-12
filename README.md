@@ -9,9 +9,9 @@
 
 <br>
 <p> Welcome to my page! <br> I'm Young Jun, a passionate back-end developer and a senior university student studying Computer Science and Statistics at Duke University. 
-<br><br>
+<br>
 I love technology and am interested in making it more approachable and exciting. 
-<br><br>
+<br>
 Oh! There is one more thing I very love, <b>FEEDBACK!</b> </p>
 <h3>Things I code with</h3>
 <p>
