@@ -5,7 +5,7 @@
 I love technology and am interested in making it more approachable and exciting. 
 <br>
 Oh! There is one more thing I very love, <b>FEEDBACK!</b> </p>
-<hr>
+
 
 ### Connect with me: 
 
@@ -18,14 +18,12 @@ Oh! There is one more thing I very love, <b>FEEDBACK!</b> </p>
 </a>
 <a href = "mailto: yj112@duke.edu">
   <img align="left" alt="Email icon" width="23px" src="https://d338t8kmirgyke.cloudfront.net/icons/icon_pngs/000/007/873/original/email.png" />
-</a> <br></br>
+</a> <br>
 
 ### Things I code with: 
 [<img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/uk/2/2e/Java_Logo.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="Python" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/python-3629591-3032289.png" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="R" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" />][webdevplaylist]
-[<img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />][webdevplaylist]
-[<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />][webdevplaylist]
+
 
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
