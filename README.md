@@ -11,7 +11,9 @@
   <img align="left" alt="Email icon" width="23px" src="https://d338t8kmirgyke.cloudfront.net/icons/icon_pngs/000/007/873/original/email.png" />
 </a>
 
-<br><br>
+  br {
+        line-height: 150%;
+     }
 <p> Welcome to my page! <br> I'm Young Jun, a passionate back-end developer and a senior at Duke University studying Computer Science and Statistics. 
 <br>
 I love technology and am interested in making it more approachable and exciting. 
