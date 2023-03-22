@@ -35,11 +35,15 @@ Oh! There is one thing I very love, <b>FEEDBACK!</b> </p>
 
 <br>
 
-## 🎨 AI-Generated Art Blog Post
+<!-- Add this line above your blog post section to create a horizontal line -->
+---
+
+## 🎨 Excited to share my first blog post on AI-Generated Art! 🚀
 
 I've recently published a blog post about AI-generated art, specifically creating geometric abstract artwork using StyleGAN2 and PyTorch. In the post, I discuss the process of collecting and preparing a dataset, implementing the StyleGAN2 model, training the model, and finally generating mesmerizing artwork.
 
 **[Read the blog post here](https://youngjun8.wordpress.com/2023/03/22/ai-generated-art-creating-geometric-abstract-artwork-with-stylegan2-and-pytorch/)**
+
 
 
 
