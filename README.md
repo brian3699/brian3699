@@ -8,7 +8,7 @@ Oh! There is one thing I very love, <b>FEEDBACK!</b> </p>
 
 ### Connect with me: 
 
-<a href="https://www.linkedin.com/in/young-hoo-jun-773706225">
+<a href="https://www.linkedin.com/in/young-hoo-jun">
   <img align="left" alt="Young's LinkedIN" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/younghoo_jun/">
