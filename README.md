@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Young!</h1>
 
-<p> Welcome to my page! <br> I'm Young Jun, a passionate back-end developer and a senior at Duke University studying Computer Science and Statistics. 
+<p> Welcome to my page! <br>  I'm Young-Hoo (Young) Jun, a passionate data specialist with a strong theoretical foundation and proven record in data science and machine learning. 
 <br>
 <!-- I love technology and am interested in making it more approachable and exciting. -->
 Oh! There is one thing I very love, <b>FEEDBACK!</b> </p>
